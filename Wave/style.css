@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+}
+.purple {
+    background: rgb(255, 0, 234);
+    height: fit-content;
+}
+
+.container {
+    height: 70vh;
+    width: 100%;
+}
+
+.image-bottom{
+    margin-bottom: -10px;
+    width: 100%;
+}
